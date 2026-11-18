@@ -2,6 +2,6 @@
 
 Building full-stack platforms, distributed storage clusters, high-concurrency SQL systems, and real-time 3D web simulations.
 
-* **Portfolio:** [natetedmonds.github.io/portfolio](Portfolio)
+* **Portfolio:** [https://natetedmonds.github.io/portfolio](Portfolio)
 * **LinkedIn:** [www.linkedin.com/in/nathaniel-edmonds-588533208](LinkedIn)
 * **Core Focus:** `.NET 10 / C#` • `SQL Server & PostgreSQL` • `Garage S3 & Hybrid Infrastructure` • `Godot / Unity Simulations`
